@@ -23,26 +23,42 @@ The console will get the following lines:
 For example:
 (1)
 knight
+
 2
+
 1 2 3 4 5 6 7 8 9
+
 4
+
 3
+
 1 2 3
+
 4 5 6
+
 7 8 9
+
 * 0 #
 
 It will return 18
 
 (2)
 bishop
+
 2
-1 2 3 4 5 
+
+1 2 3 4 5
+
 4
+
 3
+
 1 2 3
+
 4 5 6
+
 7 8 9
+
 * 0 #
 
 It will return 12
