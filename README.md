@@ -42,7 +42,7 @@ knight
 
 7 8 9
 
-* 0 #
+? 0 #
 
 It will return 18
 
@@ -64,6 +64,6 @@ bishop
 
 7 8 9
 
-* 0 #
+? 0 #
 
 It will return 12
