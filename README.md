@@ -3,8 +3,11 @@
 We will calculate the number of valid phone numbers of certain length by the movement of knight and bishop on a keypad. 
 
 The properties of the phone number:
+
 The phone number starts with some digits by input.
+
 The phone number should not contain special characters.
+
 The length of the phone number should be a value by input.
 
 ## Algorithm
