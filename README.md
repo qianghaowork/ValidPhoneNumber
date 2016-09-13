@@ -22,6 +22,7 @@ The console will get the following lines:
 
 For example:
 (1)
+
 knight
 
 2
@@ -43,6 +44,7 @@ knight
 It will return 18
 
 (2)
+
 bishop
 
 2
